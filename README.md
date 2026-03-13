@@ -6,6 +6,8 @@ Tema Escolhido: "Git e GitHub"
 
 Objetivo: "Este caderno temático visa entender os conceitos e práticas de versionamento de código com Git, além de aprender a utilizar o GitHub como plataforma de hospedagem e colaboração em projetos de software."
 
+link do NotebookLM : https://notebooklm.google.com/notebook/9d658021-6415-47a0-88ad-b4128ae328f1
+
 1.2 Curadoria de Fontes
 
 Liste as fontes que você utilizou para aprender Git e GitHub, com links para as referências. Exemplo:
